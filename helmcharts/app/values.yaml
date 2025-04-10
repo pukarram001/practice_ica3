@@ -1,7 +1,7 @@
 wp:
   name: wp-wordpress
   labels:
-    id: C0916072
+    id: C0923570
     app: wp-wordpress-app
     env: dev
   image:
